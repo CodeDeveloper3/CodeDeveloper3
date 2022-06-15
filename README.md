@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @CodeDeveloper3
-- 👀 I’m interested in Software Development. 
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on 2-8-2023
-- 📫 How to reach me happy
-
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CodeDeveloper3&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDeveloper3&langs_count=5&theme=tokyonight)]()
